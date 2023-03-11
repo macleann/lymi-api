@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "email": "nbmac13@gmail.com",
+      "name": "Neil MacLean",
+      "password": "neil",
+      "id": 1,
+      "isAdmin": true,
+      "isArtist": true
+    },
+    {
+      "email": "hannahorletmueller@gmail.com",
+      "name": "Hannah Mueller",
+      "password": "hannah",
+      "id": 2
+    },
+    {
+      "email": "fidler.collin94@gmail.com",
+      "name": "Collin Fidler",
+      "password": "collin",
+      "id": 3,
+      "isArtist": true,
+      "isAdmin": true
+    },
+    {
+      "email": "moyerga@outlook.com",
+      "name": "Griffin Moyer",
+      "password": "griffin",
+      "id": 4,
+      "isArtist": true
+    }
+  ],
+  "artistBands": [
+    {
+      "userId": 1,
+      "bandId": 1,
+      "id": 1
+    }
+  ],
+  "fanBands": [],
+  "bands": [
+    {
+      "name": "Home Visions",
+      "bio": "I'm me.",
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1678401145/awc7legqyfaumgmqi4gr.png",
+        "alt": "An image of LYMI Mar DJ Night Poster",
+        "publicId": "awc7legqyfaumgmqi4gr"
+      },
+      "id": 1
+    }
+  ],
+  "shows": [
+    {
+      "bandId": 1,
+      "venue": "Grand Ole Opry",
+      "date": "2023-03-21",
+      "time": "21:00",
+      "price": 45.99,
+      "ticketLink": "www.stonks.com",
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1678399240/usftqxdhizydhdqh9pne.png",
+        "alt": "An image of LYMI Americana 9-17 v6",
+        "publicId": "usftqxdhizydhdqh9pne"
+      },
+      "id": 1
+    }
+  ],
+  "releases": [
+    {
+      "bandId": 1,
+      "title": "Euneirophrenia",
+      "releaseDate": "2021-07-23",
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1678481420/home%20visions/euneirophrenia.jpg",
+        "alt": "Home Visions - Euneirophrenia art",
+        "publicId": "home visions/euneirophrenia"
+      },
+      "id": 1
+    }
+  ]
+}
