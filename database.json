@@ -35,6 +35,11 @@
       "userId": 1,
       "bandId": 1,
       "id": 1
+    },
+    {
+      "userId": 4,
+      "bandId": 1,
+      "id": 2
     }
   ],
   "fanBands": [],
@@ -48,6 +53,26 @@
         "publicId": "awc7legqyfaumgmqi4gr"
       },
       "id": 1
+    },
+    {
+      "name": "DoomFolk StarterKit",
+      "bio": "DoomFolk StarterKit is the songwriting project of Portland, OR based David Swick. When DoomFolk StarterKit began, Swick would write and record a song on his iPhone in one hour and then release it on Bandcamp, no matter what the end result, as an exercise in trusting instincts and eliminating self editing tendencies.",
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1678511949/tn7qprw1nxmkh9tid1do.jpg",
+        "alt": "An image of 99431246_826776011179097_2497937548204398750_n",
+        "publicId": "tn7qprw1nxmkh9tid1do"
+      },
+      "id": 2
+    },
+    {
+      "name": "Brian David Smith",
+      "bio": "Brian Smith's songwriting follows in this tradition of irreverent overextension. This approach would normally result in a tedious album if not for two things: the outrageous specificity of Brian's lyrics, and his impish urge to juxtapose unfussy, tear-in-your-beer balladry with decidedly un-country influences. The result is an album that encompasses anger, joy, disgust, bagpipes, ring modulation and balkan bichronality, all with a coherent character at the center, engaging in good faith with the phoniness of country like all the other loveable losers and no account boozers before him.",
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1678545143/j2desrnvs1ylslcdrnal.jpg",
+        "alt": "An image of BDS+Site+Profile",
+        "publicId": "j2desrnvs1ylslcdrnal"
+      },
+      "id": 3
     }
   ],
   "shows": [
