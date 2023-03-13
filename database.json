@@ -28,6 +28,20 @@
       "password": "griffin",
       "id": 4,
       "isArtist": true
+    },
+    {
+      "email": "doomfolkstarterkit@gmail.com",
+      "name": "David Swick",
+      "password": "david",
+      "id": 5,
+      "isArtist": true
+    },
+    {
+      "email": "briandsmith228@gmail.com",
+      "name": "Brian Smith",
+      "password": "brian",
+      "id": 6,
+      "isArtist": true
     }
   ],
   "artistBands": [
@@ -40,6 +54,26 @@
       "userId": 4,
       "bandId": 1,
       "id": 2
+    },
+    {
+      "userId": 4,
+      "bandId": 4,
+      "id": 2
+    },
+    {
+      "userId": 5,
+      "bandId": 2,
+      "id": 3
+    },
+    {
+      "userId": 6,
+      "bandId": 3,
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "bandId": 4,
+      "id": 5
     }
   ],
   "fanBands": [],
@@ -73,22 +107,42 @@
         "publicId": "j2desrnvs1ylslcdrnal"
       },
       "id": 3
+    },
+    {
+      "name": "Griffin Moyer",
+      "bio": "Griffin Moyer is a Nashville-based songwriter operating primarily under one principle – if you’re going to say something, you might as well be honest. Taking notes from 60’s songwriting greats while drawing from personal experiences and unfiltered emotions for inspiration, Moyer writes in plainspeak and sings in a clear voice to honestly portray how variable a life can be.",
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1678719633/qd6rxztc8bj7pkwdhedw.jpg",
+        "alt": "An image of gm_sbfl-87",
+        "publicId": "qd6rxztc8bj7pkwdhedw"
+      },
+      "id": 4
     }
   ],
   "shows": [
     {
       "bandId": 1,
-      "venue": "Grand Ole Opry",
-      "date": "2023-03-21",
-      "time": "21:00",
-      "price": 45.99,
-      "ticketLink": "www.stonks.com",
+      "venue": "Dee's Cocktail Lounge",
+      "date": "2023-03-24",
+      "time": "19:30",
+      "price": 21.21,
+      "ticketLink": "www.instagram.com",
       "image": {
-        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1678399240/usftqxdhizydhdqh9pne.png",
-        "alt": "An image of LYMI Americana 9-17 v6",
-        "publicId": "usftqxdhizydhdqh9pne"
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1678725077/ewh5zvpwaj3h9kbopcdl.jpg",
+        "alt": "An image of undefined",
+        "publicId": "ewh5zvpwaj3h9kbopcdl"
       },
-      "id": 1
+      "id": 3,
+      "band": {
+        "name": "Home Visions",
+        "bio": "I'm me.",
+        "image": {
+          "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1678401145/awc7legqyfaumgmqi4gr.png",
+          "alt": "An image of LYMI Mar DJ Night Poster",
+          "publicId": "awc7legqyfaumgmqi4gr"
+        },
+        "id": 1
+      }
     }
   ],
   "releases": [
