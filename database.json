@@ -57,44 +57,44 @@
     },
     {
       "userId": 4,
-      "bandId": 4,
-      "id": 2
+      "bandId": 9,
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "bandId": 9,
+      "id": 4
     },
     {
       "userId": 5,
       "bandId": 2,
-      "id": 3
+      "id": 5
     },
     {
       "userId": 6,
       "bandId": 3,
-      "id": 4
-    },
-    {
-      "userId": 1,
-      "bandId": 4,
-      "id": 5
+      "id": 6
     }
   ],
   "fanBands": [],
   "bands": [
     {
       "name": "Home Visions",
-      "bio": "I'm me.",
+      "bio": "Home Visions is the songwriting project of Neil MacLean, named after his father's old home remodeling business. MacLean's songs are memoir-style explorations of what might have been in the form of indie rock with heavy dance affectations.",
       "image": {
-        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1678401145/awc7legqyfaumgmqi4gr.png",
-        "alt": "An image of LYMI Mar DJ Night Poster",
-        "publicId": "awc7legqyfaumgmqi4gr"
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679338453/bandphotos/Home%20Visions.jpg",
+        "alt": "An image of Home Visions",
+        "publicId": "bandphotos/Home Visions"
       },
       "id": 1
     },
     {
       "name": "DoomFolk StarterKit",
-      "bio": "DoomFolk StarterKit is the songwriting project of Portland, OR based David Swick. When DoomFolk StarterKit began, Swick would write and record a song on his iPhone in one hour and then release it on Bandcamp, no matter what the end result, as an exercise in trusting instincts and eliminating self editing tendencies.",
+      "bio": "DoomFolk StarterKit is the songwriting project of Portland, OR based David Swick. DoomFolk StarterKit began with Swick writing & recording songs on his iPhone & releasing them on Bandcamp - an exercise in trusting instincts and eliminating self editing tendencies.",
       "image": {
-        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1678511949/tn7qprw1nxmkh9tid1do.jpg",
-        "alt": "An image of 99431246_826776011179097_2497937548204398750_n",
-        "publicId": "tn7qprw1nxmkh9tid1do"
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679339547/bandphotos/DoomFolk%20StarterKit.jpg",
+        "alt": "An image of DoomFolk StarterKit",
+        "publicId": "bandphotos/DoomFolk StarterKit"
       },
       "id": 2
     },
@@ -102,47 +102,101 @@
       "name": "Brian David Smith",
       "bio": "Brian Smith's songwriting follows in this tradition of irreverent overextension. This approach would normally result in a tedious album if not for two things: the outrageous specificity of Brian's lyrics, and his impish urge to juxtapose unfussy, tear-in-your-beer balladry with decidedly un-country influences. The result is an album that encompasses anger, joy, disgust, bagpipes, ring modulation and balkan bichronality, all with a coherent character at the center, engaging in good faith with the phoniness of country like all the other loveable losers and no account boozers before him.",
       "image": {
-        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1678545143/j2desrnvs1ylslcdrnal.jpg",
-        "alt": "An image of BDS+Site+Profile",
-        "publicId": "j2desrnvs1ylslcdrnal"
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679339697/bandphotos/Brian%20David%20Smith.jpg",
+        "alt": "An image of Brian David Smith",
+        "publicId": "bandphotos/Brian David Smith"
       },
       "id": 3
     },
     {
-      "name": "Griffin Moyer",
-      "bio": "Griffin Moyer is a Nashville-based songwriter operating primarily under one principle – if you’re going to say something, you might as well be honest. Taking notes from 60’s songwriting greats while drawing from personal experiences and unfiltered emotions for inspiration, Moyer writes in plainspeak and sings in a clear voice to honestly portray how variable a life can be.",
+      "name": "Crumbsnatchers",
+      "bio": "Hailing from Nashville, Crumbsnatchers’ catchy songs echo the wit of Pixies and Talking Heads, backed by the fervent force of Beastie Boys. Their contagiously immersive music has a habit of crushing your inhibitions into a fine paste and then painting the word “PARTY” on your brain with it.\n\nFrontman Samuel “Guetts” Guetterman pulled the band name from an experience in 2007, when, at 16 years old, he was sentenced to a year in a faith-based juvenile detention camp, in Griffin, Georgia. While enduring widespread physical abuse and abhorrent, moldy, living conditions (due to non-existent judicial oversight), Guetterman and the other boys sang in a touring church choir as examples of “reformed” rebellious teens. “Crumbsnatchers” was a condescending nickname the staff gave the boys when they sang. Secular music was contraband in the program, but a few months in, a fellow student smuggled in a CD player and a copy of Radiohead’s In Rainbows, which the boys listened to while hiding under their beds.\n\nCrumbsnatchers began in Knoxville, Tennessee when Guetterman joined his songwriting prowess with guitarist Philip Mosteller, bassist Sam Burchfield, and drummer Rylan Bledsoe. Tragically, Rylan Bledsoe passed away on the 6th of July, 2020. He is dearly missed by everyone who knew him. Rylan’s influence is recorded in the drums of Crumbsnatchers’ debut album Big House.\n\n“Satin Glow” and “One Call” are the first singles off an EP to be released in 2022 via Nashville label Like You Mean It Records. Crumbsnatchers is: Guetts Guetterman (rhythm guitar, vocals), Philip Mosteller (lead guitar), Ethan Mausolf (drums), and a few other amazing musicians who lend their talents. ",
       "image": {
-        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1678719633/qd6rxztc8bj7pkwdhedw.jpg",
-        "alt": "An image of gm_sbfl-87",
-        "publicId": "qd6rxztc8bj7pkwdhedw"
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679339922/bandphotos/Crumbsnatchers.jpg",
+        "alt": "An image of Crumbsnatchers",
+        "publicId": "bandphotos/Crumbsnatchers"
       },
       "id": 4
+    },
+    {
+      "name": "Ryan Sobb and the Dead Mall",
+      "bio": "",
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679340026/bandphotos/Ryan%20Sobb%20and%20the%20Dead%20Mall.jpg",
+        "alt": "An image of Ryan Sobb and the Dead Mall",
+        "publicId": "bandphotos/Ryan Sobb and the Dead Mall"
+      },
+      "id": 5
+    },
+    {
+      "name": "Volunteer Department",
+      "bio": "Clarity and intention are key in the world of Volunteer Department. Housed in tailored arrangements which utilize nylon guitar, vibraphone, and bass/drumkit, Hopkins' high-in-candor-low-in-bullshit lyrics are afforded the opportunity to sound out clearly and uninhibited. Unencumbered by maximalist production techniques, the sentiments found within the music of Volunteer Department act as an invitation to a personal yet digestible creative-emotional landscape. With liner notes citing collaborators from Margot and the Nuclear So & So’s, Louis Prince, and Paramore, Volunteer Department is pulling a creative thread that embraces insight and talent from all points on the ever changing contemporary music spectrum. ",
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679340083/bandphotos/Volunteer%20Department.jpg",
+        "alt": "An image of Volunteer Department",
+        "publicId": "bandphotos/Volunteer Department"
+      },
+      "id": 6
+    },
+    {
+      "name": "Josie Toney",
+      "bio": "Josie Toney is a versatile musician drawing from a deep familial\nbackground in traditional music. Hailing from Olympia, Washington, Josie\nnow resides in Nashville, Tennessee.\nIn addition to being a sought-after private instructor, Toney has shared the\nstage with artists such as Old Crow Medicine Show, Nikki Lane, and Billy\nStrings. An accomplished fiddler in a variety of roots styles, she is also a\ncompelling singer, songwriter, and guitarist, whose songs bring a taste of\nmodernity to sounds that Americans have been enjoying for a century.\nJosie toured internationally with Sierra Ferrell from 2021-2023, playing\nfiddle and singing harmony vocals, and has graced stages across the\ncountry, including Red Rocks, Newport Folk Fest, Bonnaroo, and the\nRyman, and toured the US, Canada, and Australia.\nJosie Toney is a graduate of The Berklee College of Music, where she\nreceived the Sam Eisenson Award for Country Music. In September of\n2019 she won the FreshGrass fiddle championship.\nJosie’s debut solo album Extra will be out everywhere April 7th, and\nfeatures a full country band and her original songs.",
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679340201/bandphotos/Josie%20Toney.jpg",
+        "alt": "An image of Josie Toney",
+        "publicId": "bandphotos/Josie Toney"
+      },
+      "id": 7
+    },
+    {
+      "name": "The Tuners",
+      "bio": "",
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679345384/bandphotos/The%20Tuners.jpg",
+        "alt": "An image of The Tuners",
+        "publicId": "bandphotos/The Tuners"
+      },
+      "id": 8
+    },
+    {
+      "name": "Griffin Moyer",
+      "bio": "",
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679504681/bandphotos/Griffin%20Moyer.jpg",
+        "alt": "An image of Griffin Moyer",
+        "publicId": "bandphotos/Griffin Moyer"
+      },
+      "id": 9
     }
   ],
   "shows": [
     {
       "bandId": 1,
-      "venue": "Dee's Cocktail Lounge",
-      "date": "2023-03-24",
+      "venue": "City Winery",
+      "date": "2023-03-31",
       "time": "19:30",
-      "price": 21.21,
+      "price": 12,
       "ticketLink": "www.instagram.com",
       "image": {
-        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1678725077/ewh5zvpwaj3h9kbopcdl.jpg",
-        "alt": "An image of undefined",
-        "publicId": "ewh5zvpwaj3h9kbopcdl"
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679504807/1/shows/City%20Winery/2023-03-31.png",
+        "alt": "The poster for the show on 2023-03-31 at City Winery",
+        "publicId": "1/shows/City Winery/2023-03-31"
       },
-      "id": 3,
-      "band": {
-        "name": "Home Visions",
-        "bio": "I'm me.",
-        "image": {
-          "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1678401145/awc7legqyfaumgmqi4gr.png",
-          "alt": "An image of LYMI Mar DJ Night Poster",
-          "publicId": "awc7legqyfaumgmqi4gr"
-        },
-        "id": 1
-      }
+      "id": 1
+    },
+    {
+      "bandId": 9,
+      "venue": "City Winery",
+      "date": "2023-03-24",
+      "time": "19:30",
+      "price": 20,
+      "ticketLink": "www.reddit.com",
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679505054/9/shows/City%20Winery/2023-03-24.png",
+        "alt": "The poster for the show on 2023-03-24 at City Winery",
+        "publicId": "9/shows/City Winery/2023-03-24"
+      },
+      "id": 2
     }
   ],
   "releases": [
@@ -150,12 +204,419 @@
       "bandId": 1,
       "title": "Euneirophrenia",
       "releaseDate": "2021-07-23",
+      "releaseTypeId": 1,
       "image": {
-        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1678481420/home%20visions/euneirophrenia.jpg",
-        "alt": "Home Visions - Euneirophrenia art",
-        "publicId": "home visions/euneirophrenia"
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679340869/1/release/Euneirophrenia.jpg",
+        "alt": "Euneirophrenia art",
+        "publicId": "1/release/Euneirophrenia"
       },
       "id": 1
+    },
+    {
+      "bandId": 1,
+      "title": "Soft Light",
+      "releaseDate": "2021-07-09",
+      "releaseTypeId": 3,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679340985/1/release/Soft%20Light.jpg",
+        "alt": "Soft Light art",
+        "publicId": "1/release/Soft Light"
+      },
+      "id": 2
+    },
+    {
+      "bandId": 1,
+      "title": "Terpsichore",
+      "releaseDate": "2021-06-18",
+      "releaseTypeId": 3,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679341236/1/release/Terpsichore.jpg",
+        "alt": "Terpsichore art",
+        "publicId": "1/release/Terpsichore"
+      },
+      "id": 3
+    },
+    {
+      "bandId": 1,
+      "title": "Middle",
+      "releaseDate": "2021-05-28",
+      "releaseTypeId": 3,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679341853/1/release/Middle.jpg",
+        "alt": "Middle art",
+        "publicId": "1/release/Middle"
+      },
+      "id": 4
+    },
+    {
+      "bandId": 2,
+      "title": "Old Times",
+      "releaseDate": "2021-06-11",
+      "releaseTypeId": 3,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679343356/2/release/Old%20Times.jpg",
+        "alt": "Old Times art",
+        "publicId": "2/release/Old Times"
+      },
+      "id": 5
+    },
+    {
+      "bandId": 2,
+      "title": "SunFaded / SunSign",
+      "releaseDate": "2021-09-16",
+      "releaseTypeId": 3,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679343443/2/release/SunFaded%20/%20SunSign.jpg",
+        "alt": "SunFaded / SunSign art",
+        "publicId": "2/release/SunFaded / SunSign"
+      },
+      "id": 6
+    },
+    {
+      "bandId": 2,
+      "title": "Sun Self",
+      "releaseDate": "2021-08-27",
+      "releaseTypeId": 3,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679343519/2/release/Sun%20Self.jpg",
+        "alt": "Sun Self art",
+        "publicId": "2/release/Sun Self"
+      },
+      "id": 7
+    },
+    {
+      "bandId": 2,
+      "title": "Kristofferson/StarStuffs",
+      "releaseDate": "2021-11-19",
+      "releaseTypeId": 3,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679343732/2/release/Kristofferson/StarStuffs.jpg",
+        "alt": "Kristofferson/StarStuffs art",
+        "publicId": "2/release/Kristofferson/StarStuffs"
+      },
+      "id": 8
+    },
+    {
+      "bandId": 2,
+      "title": "SunFaded",
+      "releaseDate": "2021-09-24",
+      "releaseTypeId": 1,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679343939/2/release/SunFaded.jpg",
+        "alt": "SunFaded art",
+        "publicId": "2/release/SunFaded"
+      },
+      "id": 9
+    },
+    {
+      "bandId": 2,
+      "title": "2Hands",
+      "releaseDate": "2022-05-06",
+      "releaseTypeId": 3,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679344037/2/release/2Hands.jpg",
+        "alt": "2Hands art",
+        "publicId": "2/release/2Hands"
+      },
+      "id": 10
+    },
+    {
+      "bandId": 2,
+      "title": "Christmas in Nightmare City",
+      "releaseDate": "2022-12-06",
+      "releaseTypeId": 3,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679344259/2/release/Christmas%20in%20Nightmare%20City.jpg",
+        "alt": "Christmas in Nightmare City art",
+        "publicId": "2/release/Christmas in Nightmare City"
+      },
+      "id": 11
+    },
+    {
+      "bandId": 3,
+      "title": "Mick's Saddles",
+      "releaseDate": "2021-09-03",
+      "releaseTypeId": 3,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679344338/3/release/Mick%27s%20Saddles.jpg",
+        "alt": "Mick's Saddles art",
+        "publicId": "3/release/Mick's Saddles"
+      },
+      "id": 12
+    },
+    {
+      "bandId": 3,
+      "title": "Give Me One Good Reason Not To Be Lonely",
+      "releaseDate": "2021-09-24",
+      "releaseTypeId": 3,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679344406/3/release/Give%20Me%20One%20Good%20Reason%20Not%20To%20Be%20Lonely.jpg",
+        "alt": "Give Me One Good Reason Not To Be Lonely art",
+        "publicId": "3/release/Give Me One Good Reason Not To Be Lonely"
+      },
+      "id": 13
+    },
+    {
+      "bandId": 3,
+      "title": "Black Snot",
+      "releaseDate": "2021-10-22",
+      "releaseTypeId": 3,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679344468/3/release/Black%20Snot.jpg",
+        "alt": "Black Snot art",
+        "publicId": "3/release/Black Snot"
+      },
+      "id": 14
+    },
+    {
+      "bandId": 3,
+      "title": "Abstract Whittler",
+      "releaseDate": "2021-11-12",
+      "releaseTypeId": 1,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679344540/3/release/Abstract%20Whittler.jpg",
+        "alt": "Abstract Whittler art",
+        "publicId": "3/release/Abstract Whittler"
+      },
+      "id": 15
+    },
+    {
+      "bandId": 4,
+      "title": "One Call",
+      "releaseDate": "2021-07-02",
+      "releaseTypeId": 3,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679344723/4/release/One%20Call.jpg",
+        "alt": "One Call art",
+        "publicId": "4/release/One Call"
+      },
+      "id": 16
+    },
+    {
+      "bandId": 4,
+      "title": "Keep Your Honey",
+      "releaseDate": "2022-03-11",
+      "releaseTypeId": 2,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679344793/4/release/Keep%20Your%20Honey.jpg",
+        "alt": "Keep Your Honey art",
+        "publicId": "4/release/Keep Your Honey"
+      },
+      "id": 17
+    },
+    {
+      "bandId": 5,
+      "title": "Blood on the Tracks",
+      "releaseDate": "2022-08-26",
+      "releaseTypeId": 3,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679344924/5/release/Blood%20on%20the%20Tracks.jpg",
+        "alt": "Blood on the Tracks art",
+        "publicId": "5/release/Blood on the Tracks"
+      },
+      "id": 18
+    },
+    {
+      "bandId": 5,
+      "title": "Out in the Country",
+      "releaseDate": "2022-09-23",
+      "releaseTypeId": 3,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679344971/5/release/Out%20in%20the%20Country.jpg",
+        "alt": "Out in the Country art",
+        "publicId": "5/release/Out in the Country"
+      },
+      "id": 19
+    },
+    {
+      "bandId": 5,
+      "title": "The Dead Mall",
+      "releaseDate": "2022-10-07",
+      "releaseTypeId": 1,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679345000/5/release/The%20Dead%20Mall.jpg",
+        "alt": "The Dead Mall art",
+        "publicId": "5/release/The Dead Mall"
+      },
+      "id": 20
+    },
+    {
+      "bandId": 6,
+      "title": "Make It Easy",
+      "releaseDate": "2022-09-09",
+      "releaseTypeId": 3,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679345088/6/release/Make%20It%20Easy.jpg",
+        "alt": "Make It Easy art",
+        "publicId": "6/release/Make It Easy"
+      },
+      "id": 21
+    },
+    {
+      "bandId": 6,
+      "title": "What A Life",
+      "releaseDate": "2022-09-30",
+      "releaseTypeId": 3,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679345159/6/release/What%20A%20Life.jpg",
+        "alt": "What A Life art",
+        "publicId": "6/release/What A Life"
+      },
+      "id": 22
+    },
+    {
+      "bandId": 6,
+      "title": "Swell",
+      "releaseDate": "2022-10-21",
+      "releaseTypeId": 3,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679345242/6/release/Swell.jpg",
+        "alt": "Swell art",
+        "publicId": "6/release/Swell"
+      },
+      "id": 23
+    },
+    {
+      "bandId": 6,
+      "title": "Clean Living",
+      "releaseDate": "2022-11-04",
+      "releaseTypeId": 2,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679345310/6/release/Clean%20Living.jpg",
+        "alt": "Clean Living art",
+        "publicId": "6/release/Clean Living"
+      },
+      "id": 24
+    },
+    {
+      "bandId": 8,
+      "title": "Independence Day",
+      "releaseDate": "2022-09-16",
+      "releaseTypeId": 3,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679345569/8/release/Independence%20Day.jpg",
+        "alt": "Independence Day art",
+        "publicId": "8/release/Independence Day"
+      },
+      "id": 25
+    },
+    {
+      "bandId": 8,
+      "title": "Bicycle Rider",
+      "releaseDate": "2022-10-18",
+      "releaseTypeId": 3,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679345616/8/release/Bicycle%20Rider.jpg",
+        "alt": "Bicycle Rider art",
+        "publicId": "8/release/Bicycle Rider"
+      },
+      "id": 26
+    },
+    {
+      "bandId": 8,
+      "title": "Pondering",
+      "releaseDate": "2022-11-11",
+      "releaseTypeId": 3,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679345665/8/release/Pondering.jpg",
+        "alt": "Pondering art",
+        "publicId": "8/release/Pondering"
+      },
+      "id": 27
+    },
+    {
+      "bandId": 8,
+      "title": "Chapter Book",
+      "releaseDate": "2022-11-18",
+      "releaseTypeId": 1,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679345709/8/release/Chapter%20Book.jpg",
+        "alt": "Chapter Book art",
+        "publicId": "8/release/Chapter Book"
+      },
+      "id": 28
+    },
+    {
+      "bandId": 7,
+      "title": "City Girl Blues",
+      "releaseDate": "2023-03-10",
+      "releaseTypeId": 3,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679345938/7/release/City%20Girl%20Blues.jpg",
+        "alt": "City Girl Blues art",
+        "publicId": "7/release/City Girl Blues"
+      },
+      "id": 29
+    },
+    {
+      "bandId": 7,
+      "title": "Too Long In Life",
+      "releaseDate": "2023-03-18",
+      "releaseTypeId": 3,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679345977/7/release/Too%20Long%20In%20Life.jpg",
+        "alt": "Too Long In Life art",
+        "publicId": "7/release/Too Long In Life"
+      },
+      "id": 30
+    },
+    {
+      "bandId": 7,
+      "title": "Extra",
+      "releaseDate": "2023-03-24",
+      "releaseTypeId": 3,
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679346030/7/release/Extra.jpg",
+        "alt": "Extra art",
+        "publicId": "7/release/Extra"
+      },
+      "id": 31
     }
+  ],
+  "releaseTypes": [
+    {
+      "id": 1,
+      "type": "LP"
+    },
+    {
+      "id": 2,
+      "type": "EP"
+    },
+    {
+      "id": 3,
+      "type": "Single"
+    }
+  ],
+  "songs": [],
+  "releaseSongs": [],
+  "colors": [
+    "#000000",
+    "#6033AC",
+    "#5e85c4",
+    "#f48263",
+    "#78b62b",
+    "#6b86c3",
+    "#7887c2",
+    "#8588c1",
+    "#9289c0",
+    "#9f8abf",
+    "#ac8bbe",
+    "#b98cbe",
+    "#c68dbd",
+    "#d38ebc",
+    "#e08fbb",
+    "#ed90ba",
+    "#f68b64",
+    "#f89565",
+    "#fa9e67",
+    "#fda769",
+    "#feaf6b",
+    "#ffb86d",
+    "#ffc16f",
+    "#ffca71",
+    "#ffd374",
+    "#ffdc76",
+    "#ffe579",
+    "#87b62e"
   ]
 }
