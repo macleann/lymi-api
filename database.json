@@ -566,7 +566,7 @@
       "releaseDate": "2023-03-24",
       "releaseTypeId": 3,
       "image": {
-        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679346030/7/release/Extra.jpg",
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1679689425/7/release/Extra.jpg",
         "alt": "Extra art",
         "publicId": "7/release/Extra"
       },
@@ -587,8 +587,255 @@
       "type": "Single"
     }
   ],
-  "songs": [],
-  "releaseSongs": [],
+  "songs": [
+    {
+      "title": "Long Hunter",
+      "audio": {
+        "url": "https://res.cloudinary.com/dnq0umskc/video/upload/v1679626212/1/release/Euneirophrenia/Long%20Hunter.wav",
+        "publicId": "1/release/Euneirophrenia/Long Hunter",
+        "duration": 228.02
+      },
+      "id": 1
+    },
+    {
+      "title": "Terpsichore",
+      "audio": {
+        "url": "https://res.cloudinary.com/dnq0umskc/video/upload/v1679628753/1/release/Euneirophrenia/Terpsichore.wav",
+        "publicId": "1/release/Euneirophrenia/Terpsichore",
+        "duration": 419.332789
+      },
+      "id": 2
+    },
+    {
+      "title": "Middle",
+      "audio": {
+        "url": "https://res.cloudinary.com/dnq0umskc/video/upload/v1679629001/1/release/Euneirophrenia/Middle.wav",
+        "publicId": "1/release/Euneirophrenia/Middle",
+        "duration": 252.406259
+      },
+      "id": 3
+    },
+    {
+      "title": "Soft Light",
+      "audio": {
+        "url": "https://res.cloudinary.com/dnq0umskc/video/upload/v1679629411/1/release/Euneirophrenia/Soft%20Light.wav",
+        "publicId": "1/release/Euneirophrenia/Soft Light",
+        "duration": 250.136145
+      },
+      "id": 4
+    },
+    {
+      "title": "Let You Know",
+      "audio": {
+        "url": "https://res.cloudinary.com/dnq0umskc/video/upload/v1679631771/1/release/Euneirophrenia/Let%20You%20Know.wav",
+        "publicId": "1/release/Euneirophrenia/Let You Know",
+        "duration": 203.044308
+      },
+      "id": 5
+    },
+    {
+      "title": "Restraint",
+      "audio": {
+        "url": "https://res.cloudinary.com/dnq0umskc/video/upload/v1679631981/1/release/Euneirophrenia/Restraint.wav",
+        "publicId": "1/release/Euneirophrenia/Restraint",
+        "duration": 218.036689
+      },
+      "id": 6
+    },
+    {
+      "title": "Better Than This",
+      "audio": {
+        "url": "https://res.cloudinary.com/dnq0umskc/video/upload/v1679632009/1/release/Euneirophrenia/Better%20Than%20This.wav",
+        "publicId": "1/release/Euneirophrenia/Better Than This",
+        "duration": 221.60458
+      },
+      "id": 7
+    },
+    {
+      "title": "I'll Wait",
+      "audio": {
+        "url": "https://res.cloudinary.com/dnq0umskc/video/upload/v1679632038/1/release/Euneirophrenia/I%27ll%20Wait.wav",
+        "publicId": "1/release/Euneirophrenia/I'll Wait",
+        "duration": 218.583152
+      },
+      "id": 8
+    },
+    {
+      "title": "It's Not Like You've Ever Been Lonely",
+      "audio": {
+        "url": "https://res.cloudinary.com/dnq0umskc/video/upload/v1679632077/1/release/Euneirophrenia/It%27s%20Not%20Like%20You%27ve%20Ever%20Been%20Lonely.wav",
+        "publicId": "1/release/Euneirophrenia/It's Not Like You've Ever Been Lonely",
+        "duration": 266.930068
+      },
+      "id": 9
+    },
+    {
+      "title": "De-sync",
+      "audio": {
+        "url": "https://res.cloudinary.com/dnq0umskc/video/upload/v1679632128/1/release/Euneirophrenia/De-sync.wav",
+        "publicId": "1/release/Euneirophrenia/De-sync",
+        "duration": 374.190249
+      },
+      "id": 10
+    },
+    {
+      "title": "Old Times",
+      "audio": {
+        "url": "https://res.cloudinary.com/dnq0umskc/video/upload/v1679689098/2/release/Old%20Times/Old%20Times.wav",
+        "publicId": "2/release/Old Times/Old Times",
+        "duration": 120
+      },
+      "id": 11
+    },
+    {
+      "title": "SunFaded",
+      "audio": {
+        "url": "https://res.cloudinary.com/dnq0umskc/video/upload/v1679689161/2/release/SunFaded%20/%20SunSign/SunFaded.wav",
+        "publicId": "2/release/SunFaded / SunSign/SunFaded",
+        "duration": 240
+      },
+      "id": 12
+    },
+    {
+      "title": "SunSign",
+      "audio": {
+        "url": "https://res.cloudinary.com/dnq0umskc/video/upload/v1679689198/2/release/SunFaded%20/%20SunSign/SunSign.wav",
+        "publicId": "2/release/SunFaded / SunSign/SunSign",
+        "duration": 192.452834
+      },
+      "id": 13
+    },
+    {
+      "title": "Extra",
+      "audio": {
+        "url": "https://res.cloudinary.com/dnq0umskc/video/upload/v1679689441/7/release/Extra/Extra.wav",
+        "publicId": "7/release/Extra/Extra",
+        "duration": 224.306667
+      },
+      "id": 14
+    }
+  ],
+  "releaseSongs": [
+    {
+      "id": 1,
+      "releaseId": 1,
+      "songId": 1,
+      "trackNumber": 1,
+      "bandId": 1
+    },
+    {
+      "id": 2,
+      "releaseId": 1,
+      "songId": 2,
+      "trackNumber": 2,
+      "bandId": 1
+    },
+    {
+      "id": 3,
+      "releaseId": 1,
+      "songId": 3,
+      "trackNumber": 3,
+      "bandId": 1
+    },
+    {
+      "id": 4,
+      "releaseId": 1,
+      "songId": 4,
+      "trackNumber": 3,
+      "bandId": 1
+    },
+    {
+      "releaseId": 1,
+      "songId": 5,
+      "trackNumber": 5,
+      "id": 5,
+      "bandId": 1
+    },
+    {
+      "releaseId": 1,
+      "songId": 6,
+      "trackNumber": 6,
+      "id": 6,
+      "bandId": 1
+    },
+    {
+      "releaseId": 1,
+      "songId": 7,
+      "trackNumber": 7,
+      "id": 7,
+      "bandId": 1
+    },
+    {
+      "releaseId": 1,
+      "songId": 8,
+      "trackNumber": 8,
+      "id": 8,
+      "bandId": 1
+    },
+    {
+      "releaseId": 1,
+      "songId": 9,
+      "trackNumber": 9,
+      "id": 9,
+      "bandId": 1
+    },
+    {
+      "releaseId": 1,
+      "songId": 10,
+      "trackNumber": 10,
+      "id": 10,
+      "bandId": 1
+    },
+    {
+      "bandId": 1,
+      "releaseId": 2,
+      "songId": 4,
+      "trackNumber": 1,
+      "id": 11
+    },
+    {
+      "bandId": 1,
+      "releaseId": 2,
+      "songId": 2,
+      "trackNumber": 2,
+      "id": 12
+    },
+    {
+      "bandId": 1,
+      "releaseId": 2,
+      "songId": 3,
+      "trackNumber": 3,
+      "id": 13
+    },
+    {
+      "bandId": 2,
+      "releaseId": 5,
+      "songId": 11,
+      "trackNumber": 1,
+      "id": 14
+    },
+    {
+      "bandId": 2,
+      "releaseId": 6,
+      "songId": 12,
+      "trackNumber": 1,
+      "id": 15
+    },
+    {
+      "bandId": 2,
+      "releaseId": 6,
+      "songId": 13,
+      "trackNumber": 2,
+      "id": 16
+    },
+    {
+      "bandId": 7,
+      "releaseId": 31,
+      "songId": 14,
+      "trackNumber": 1,
+      "id": 17
+    }
+  ],
   "colors": [
     "#000000",
     "#6033AC",
